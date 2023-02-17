@@ -1,0 +1,16 @@
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\bin\Debug\net6.0\Task_34.exe
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\bin\Debug\net6.0\Task_34.deps.json
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\bin\Debug\net6.0\Task_34.runtimeconfig.json
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\bin\Debug\net6.0\Task_34.dll
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\bin\Debug\net6.0\ref\Task_34.dll
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\bin\Debug\net6.0\Task_34.pdb
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\obj\Debug\net6.0\Task_34.GlobalUsings.g.cs
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\obj\Debug\net6.0\Task_34.csproj.AssemblyReference.cache
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\obj\Debug\net6.0\Task_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\obj\Debug\net6.0\Task_34.AssemblyInfoInputs.cache
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\obj\Debug\net6.0\Task_34.AssemblyInfo.cs
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\obj\Debug\net6.0\Task_34.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\obj\Debug\net6.0\Task_34.dll
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\obj\Debug\net6.0\ref\Task_34.dll
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\obj\Debug\net6.0\Task_34.pdb
+C:\Users\eugen\Desktop\HomeWork1.4\Task_34\obj\Debug\net6.0\Task_34.genruntimeconfig.cache
